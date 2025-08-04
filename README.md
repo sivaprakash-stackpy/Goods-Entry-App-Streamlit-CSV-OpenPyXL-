@@ -21,3 +21,8 @@ This Streamlit app allows users to input goods data (item name, quantity, and pr
 
    ```bash
    pip install -r requirements.txt
+
+## Run app
+
+   ```bash
+   streamlit run app.py
